@@ -13,7 +13,6 @@
 # limitations under the License.
 
 from typing import Any
-import xgboost
 import numpy as np
 import pickle
 import streamlit as st
